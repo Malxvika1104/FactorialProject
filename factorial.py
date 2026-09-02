@@ -1,6 +1,6 @@
-num = int(input("Enter a number: "))
+num = int(input("Enter one number: "))
 
-factorial = 2
+factorial = 1
 
 for i in range(1, num + 1):
     factorial = factorial * i
